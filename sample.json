@@ -1,0 +1,14 @@
+{
+    "No.1":{
+        "parameter1": 100,
+        "parameter2": "01"
+    },
+    "No.2":{
+        "parameter1": 5,
+        "parameter2": "1A"
+    },
+    "No.3":{
+        "parameter1": 43,
+        "parameter2": "E9"
+    }
+}
