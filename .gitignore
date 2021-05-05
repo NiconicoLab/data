@@ -1,1 +1,8 @@
+#.DS_Storeを除外
 .DS_Store
+
+#拡張子がtxtのものを除外
+*.txt
+
+#上記で除外した中でsample.txtのみ管理に含める
+!sample.txt
